@@ -1,5 +1,5 @@
 # Instructions
-- The test consists of four sections: Coding Challenge, System Design, Code Review, Problem-Solving and SQL Skills.
+- The test consists of five sections: Coding Challenge, System Design, Code Review, Problem-Solving and SQL Skills.
 - Complete the tasks in a local development environment.
 - Submit your solutions as a zip file containing source code files and documentation.
 - Time allotted: 8 hours.
